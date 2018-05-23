@@ -36,5 +36,3 @@ console.watch = function (oObj, sProp) {
 
 //invocation
 console.watch(obj, "someProp");
-
- allBeneficiaryAccDetails[accountNumber]
